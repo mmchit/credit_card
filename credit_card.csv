@@ -113,7 +113,7 @@ Accepted,23,29500,Own,None
 Accepted,42,50000,Rent,None
 Accepted,28,24000,Rent,None
 Accepted,46,135000,Own,None
-Decline,26,40000,Rent,Up to 
+Decline,26,40000,Rent,Up to
 Accepted,37,39000,Rent,Up to five
 Accepted,38,20000,Own,Up to five
 Accepted,30,21500,Rent,None
@@ -222,7 +222,7 @@ Accepted,26,35000,Rent,None
 Accepted,43,45600,Rent,None
 Accepted,28,27600,Rent,None
 Accepted,23,25350,Own,None
-Decline,41,32388,Rent,More than 
+Decline,41,32388,Rent,More than
 Decline,35,38400,Rent,Up to five
 Accepted,33,13200,Rent,None
 Decline,26,39000,Rent,None

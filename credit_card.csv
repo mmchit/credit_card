@@ -1,0 +1,1320 @@
+outcome,age,income,housing,credit_report
+Accepted,38,135600,Own,No report
+Accepted,33,72600,Rent,No report
+Accepted,34,135000,Own,No report
+Accepted,31,76200,Rent,No report
+Accepted,32,293601,Own,No report
+Accepted,23,75000,Rent,No report
+Accepted,28,118800,Rent,No report
+Accept,29,71100,Own,No report
+Accept,37,114000,Own,No report
+Accept,28,96000,Rent,No report
+Accepted,31,118500,Own,No report
+Declined,42,59400,Own,No report
+Declined,30,51900,Own,No report
+Accepted,29,73500,Own,No report
+Accepted,35,57240,Own,No report
+Accepted,41,96000,Own,No report
+Accepted,40,120000,Own,No report
+Declined,30,90000,Own,More than five
+Accepted,40,299997,Own,No report
+Declined,46,102000,Rental,Up to five
+Accepted,35,70500,Own,No report
+Declined,25,56250,Rent,Up to five
+Accepted,34,0,Own,No report
+Accepted,36,120000,Rent,Up to five
+Accepted,43,154200,Own,No report
+Accepted,30,135180,Rent,No report
+Declined,22,115200,Rent,No report
+Accepted,22,45000,Rent,No report
+Declined,34,75000,Own,No report
+Accepted,40,165000,Own,No report
+Accepted,220,60816,Rent,No report
+Accepted,29,96000,Rent,Up to five
+Declined,25,94500,Own,Up to five
+Accepted,21,73989,Own,No report
+Accepted,24,90000,Rent,No report
+Accepted,43,106236,Own,No report
+Declined,43,68535,Rent,No report
+Accepted,37,171000,Owner,No report
+Accepted,27,105000,Rent,No report
+Accepted,28,138000,Own,No report
+Accepted,26,90000,Own,No report
+Accepted,23,77550,Rent,No report
+Accepted,30,45300,Rent,No report
+Accepted,30,55500,Rent,No report
+Accepted,38,78000,Rent,No report
+Declined,28,54000,Rent,No report
+Accepted,36,60000,Rent,No report
+Declined,38,97884,Rent,No report
+Accepted,26,70500,Rent,No report
+Accepted,28,210000,Own,No report
+Declined,50,108000,Rent,No report
+Accepted,24,60000,Rent,No report
+Accepted,21,0,Rent,No report
+Accepted,24,84000,Rent,No report
+Accepted,26,72000,Rent,No report
+Accept,33,90000,Rent,Up to five
+Accept,34,144000,Rent,No report
+Accepted,33,95400,Rent,No report
+Declined,45,54000,Rent,No report
+Accepted,21,45000,Rental,No report
+Accepted,25,90000,Rent,Up to five
+Accepted,27,68400,Rent,No report
+Accepted,26,84000,Rent,No report
+Accepted,22,81000,Rent,No report
+Dacline,27,147000,Owner,Up to five
+Declined,26,75000,Rent,No report
+Accepted,41,180000,Rent,No report
+Accepted,42,117000,Rent,No report
+Declined,22,153000,Rent,No report
+Accepted,25,92220,Rent,No report
+Accepted,31,73755,Own,No report
+Accepted,27,60000,Rent,No report
+Accepted,33,97440,Rent,No report
+Accepted,37,81750,Rent,No report
+Accepted,27,66000,Rent,No report
+Declined,24,123000,Rent,Up to five
+Accepted,24,112500,Rent,No report
+Accepted,25,86400,Rent,No report
+Accepted,1,91500,Rent,No report
+Accepted,33,76500,Rent,No report
+Declined,33,120000,Rent,No report
+Accepted,55,79200,Own,Up to five
+Accepted,24,49500,Rent,No report
+Accepted,29,72000,Rent,No report
+Declined,40,111297,Rental,Up to five
+Accepted,41,217200,Own,No report
+Declined,41,131580,Own,No report
+Declined,35,99000,Own,No report
+Declined,24,69120,Rent,No report
+Declined,54,125400,Rent,Up to five
+Declined,34,74625,Rent,Up to five
+Dacline,45,84165,Own,No report
+Accepted,43,72000,Rent,No report
+Declined,35,45000,Rent,Up to five
+Declined,36,252000,Rent,Up to five
+Accepted,22,46800,Rent,No report
+Accepted,33,180000,Own,Up to five
+Accepted,25,108000,Rent,Up to five
+Accepted,26,150000,Own,No report
+Accepted,46,165000,Own,No report
+Accepted,35,299997,Own,Up to five
+Declined,35,136500,Own,No report
+Declined,,87000,Rent,No report
+Accepted,,54000,Rent,No report
+Accepted,31,126000,Own,No report
+Accepted,23,117600,Rent,No report
+Accepted,23,108750,Rent,No report
+Accepted,25,74400,Rent,No report
+Accepted,41,299997,Own,No report
+Accepted,44,301179,Own,No report
+Accepted,23,88500,Own,No report
+Accepted,42,150000,Rent,No report
+Accepted,28,72000,Rent,No report
+Accepted,46,405000,Own,No report
+Declined,26,120000,Rent,Up to
+Accepted,37,117000,Rent,Up to five
+Accepted,38,60000,Own,Up to five
+Accepted,30,64500,Rent,No report
+Accepted,21,90000,Rent,No report
+Accepted,40,129000,Rent,No report
+Declined,23,299997,Rent,Up to five
+Accepted,22,75000,Rent,No report
+Accepted,22,90000,Rent,No report
+Accepted,41,78000,Own,No report
+Accepted,29,49800,Own,Up to five
+Accepted,34,135000,Own,No report
+Accepted,25,150000,Rent,No report
+Accepted,22,52200,Rent,No report
+Accepted,25,56250,Rent,No report
+Accepted,42,90000,Own,No report
+Declined,31,126000,Rent,Up to five
+Declined,53,147000,Own,No report
+Accepted,24,63900,Rent,No report
+Declined,25,51000,Rent,Up to five
+Accepted,22,50400,Rent,No report
+Declined,21,79200,Rent,No report
+Accepted,8,59040,Rent,No report
+Accepted,22,99000,Rent,No report
+Accepted,21,47688,Rent,No report
+Accepted,42,108000,Rent,No report
+Accepted,36,90000,Rent,No report
+Accepted,42,114000,Rent,No report
+Accepted,27,100800,Rent,No report
+Declined,33,69612,Rent,Up to five
+Accepted,43,234000,Own,No report
+Accepted,30,75000,Own,No report
+Accepted,25,45000,Rent,No report
+Accepted,36,107466,Own,No report
+Accepted,45,120000,Own,Up to five
+Accepted,43,201600,Own,Up to five
+Accepted,50,129000,Own,Up to five
+Accepted,32,105000,Own,No report
+Declined,43,118500,Own,Up to five
+Declined,27,120000,Own,Up to five
+Accepted,25,72000,Rent,No report
+Accepted,50,81000,Own,No report
+Accepted,28,198000,Rent,No report
+Accepted,27,81000,Rent,No report
+Accepted,29,123000,Rent,No report
+Accepted,72,231030,Own,No report
+Accepted,25,0,Rent,No report
+Accepted,25,93600,Rent,No report
+Accepted,25,69000,Rent,No report
+Accepted,30,110100,Own,No report
+Declined,33,195000,Own,No report
+Accepted,23,76800,Rent,No report
+Accepted,49,105000,Own,No report
+Accepted,25,97200,Rent,No report
+Accepted,25,104400,Own,No report
+Accepted,25,88140,Rent,No report
+Declined,29,74250,Rent,Up to five
+Declined,29,93600,Rent,Up to five
+Declined,32,75000,Rent,No report
+Accepted,27,90000,Own,No report
+Accepted,34,180000,Own,No report
+Accepted,28,78000,Own,No report
+Accepted,24,117000,Rent,No report
+Declined,31,75000,Rent,Up to five
+Declined,35,99000,Rent,Up to five
+Accepted,32,177150,Rent,No report
+Accepted,36,234000,Own,Up to five
+Declined,32,61800,Rent,Up to five
+Accepted,31,170895,Own,No report
+Accepted,28,64800,Rent,No report
+Declined,42,138000,Rent,Up to five
+Accepted,22,105000,Rent,No report
+Accepted,30,76500,Own,No report
+Accepted,44,52416,Own,No report
+Accepted,30,58500,Own,No report
+Accepted,34,150000,Own,No report
+Accepted,24,86688,Rent,No report
+Accepted,25,81000,Own,No report
+Accepted,24,120000,Rent,No report
+Accepted,24,69000,Rent,No report
+Accepted,32,72000,Rent,No report
+Declined,46,78000,Rent,No report
+Accepted,22,72000,Own,No report
+Accepted,36,75600,Rent,No report
+Accepted,24,46800,Rent,No report
+Accepted,49,72000,Rent,No report
+Accepted,26,60000,Rent,No report
+Accepted,29,77400,Rent,Up to five
+Accepted,33,94500,Rent,No report
+Accepted,29,69000,Rent,No report
+Accepted,48,139500,Rent,No report
+Accepted,22,93600,Rent,No report
+Accepted,30,60000,Own,No report
+Declined,63,76500,Rent,More than five
+Accepted,22,73800,Rent,Up to five
+Accepted,31,114000,Rent,No report
+Accepted,48,79116,Own,No report
+Accepted,40,210000,Own,Up to five
+Declined,53,84000,Rent,No report
+Declined,23,94425,Rent,No report
+Declined,,180000,Rent,Up to five
+Accepted,25,97500,Rent,No report
+Accepted,61,129600,Own,No report
+Accepted,29,75000,Rent,No report
+Accepted,35,90000,Rent,No report
+Accepted,26,105000,Rent,No report
+Accepted,43,136800,Rent,No report
+Accepted,28,82800,Rent,No report
+Accepted,23,76050,Own,No report
+Declined,41,97164,Rent,More than
+Declined,35,115200,Rent,Up to five
+Accepted,33,39600,Rent,No report
+Declined,26,117000,Rent,No report
+Declined,57,61200,Own,No report
+Accepted,30,218712,Own,Up to five
+Accepted,25,225000,Own,No report
+Accepted,35,97812,Rent,No report
+Accepted,25,48960,Rent,No report
+Accepted,41,240000,Own,No report
+Accepted,31,66000,Own,No report
+Accepted,28,150000,Own,No report
+Accepted,31,90000,Own,No report
+Accepted,46,60000,Own,No report
+Accepted,21,46200,Rent,No report
+Declined,28,45000,Rent,No report
+Accepted,52,90000,Own,No report
+Accepted,42,150000,Own,Up to five
+Accepted,52,141696,Own,No report
+Accepted,,45000,Own,No report
+Accepted,26,69000,Rent,No report
+Accepted,21,48000,Rent,No report
+Accepted,28,66000,Rent,No report
+Accepted,23,129600,Rent,No report
+Declined,23,78000,Rent,No report
+Accepted,26,50256,Rent,No report
+Accepted,84,86175,Own,No report
+Accepted,25,78000,Rent,No report
+Accepted,34,87000,Own,No report
+Accepted,25,79500,Rent,No report
+Accepted,27,57000,Rent,No report
+Accepted,66,88500,Own,No report
+Accepted,22,93600,Rent,No report
+Accepted,35,123375,Own,No report
+Declined,46,180000,Own,Up to five
+Accepted,25,60000,Rent,No report
+Declined,36,101400,Own,Up to five
+Accepted,34,105000,Rent,No report
+Accepted,30,78000,Own,No report
+Declined,26,105000,Rent,More than five
+Accepted,25,84000,Rent,Up to five
+Accepted,38,177000,Own,No report
+Accepted,46,162000,Own,No report
+Accepted,30,84000,Rent,No report
+Accepted,44,117000,Own,No report
+Accepted,47,102000,Rent,No report
+Accepted,22,62400,Rent,No report
+Accepted,58,75000,Own,No report
+Accepted,24,58500,Rent,Up to five
+Accepted,26,63000,Rent,No report
+Declined,31,90000,Own,No report
+Accepted,35,96000,Own,Up to five
+Declined,38,78000,Rent,Up to five
+Accepted,40,92010,Rent,No report
+Accepted,24,84000,Rent,No report
+Accepted,31,144000,Own,No report
+Declined,41,142200,Own,No report
+Accepted,30,84000,Own,No report
+Accepted,36,126000,Own,No report
+Accepted,43,120000,Rent,No report
+Declined,26,49500,Rent,Up to five
+Accepted,34,129000,Rent,No report
+Accepted,64,193596,Own,No report
+Accepted,22,90000,Rent,Up to five
+Accepted,21,52500,Rent,No report
+Declined,22,54000,Rent,No report
+Accepted,23,64500,Rent,No report
+Declined,24,236400,Rent,No report
+Declined,27,78000,Rent,Up to five
+Accepted,36,72600,Own,No report
+Accepted,41,84000,Own,No report
+Accepted,41,109200,Rent,No report
+Accepted,54,299997,Own,Up to five
+Declined,21,58500,Rent,No report
+Accepted,35,195000,Own,Up to five
+Accepted,32,114150,Own,No report
+Accepted,41,64500,Rent,No report
+Accepted,39,120000,Rent,Up to five
+Accepted,22,93000,Rent,No report
+Declined,31,120312,Rent,No report
+Accepted,29,137400,Rent,No report
+Accepted,34,54000,Own,No report
+Declined,38,51285,Rent,Up to five
+Accepted,22,67779,Own,No report
+Accepted,26,105000,Rent,No report
+Accepted,40,299997,Own,No report
+Accepted,24,47034,Own,No report
+Accepted,38,88869,Own,No report
+Accepted,28,81000,Rent,Up to five
+Accepted,22,64800,Own,No report
+Accepted,26,120000,Rent,No report
+Declined,32,135000,Own,Up to five
+Declined,34,54000,Own,No report
+Accepted,27,82500,Rent,No report
+Accepted,40,72600,Own,No report
+Declined,23,67500,Rent,No report
+Declined,24,36000,Rent,No report
+Declined,28,78000,Own,Up to five
+Declined,26,45000,Rent,No report
+Accepted,25,63000,Own,No report
+Accepted,0,97200,Own,No report
+Declined,37,66600,Own,No report
+Declined,35,147000,Rent,Up to five
+Accepted,42,69000,Own,No report
+Declined,28,99000,Rent,Up to five
+Declined,45,75000,Own,Up to five
+Accepted,34,66150,Own,No report
+Accepted,36,72000,Own,Up to five
+Accepted,22,81000,Rent,No report
+Accepted,34,111000,Own,No report
+Declined,28,63600,Rent,Up to five
+Accepted,35,186000,Own,No report
+Accepted,40,75000,Rent,No report
+Declined,24,60000,Rent,Up to five
+Declined,30,72000,Rent,No report
+Accepted,45,120900,Rent,No report
+Declined,32,90000,Rent,No report
+Accepted,25,87000,Own,No report
+Accepted,28,59700,Own,No report
+Accepted,57,57600,Own,No report
+Accepted,34,150000,Own,Up to five
+Declined,33,64800,Own,Up to five
+Accepted,27,66000,Rent,No report
+Accepted,22,67125,Rent,No report
+Declined,40,72000,Rent,Up to five
+Accepted,40,57000,Own,No report
+Accepted,26,165000,Own,No report
+Declined,32,64800,Rent,No report
+Accepted,26,210000,Rent,Up to five
+Declined,37,78000,Own,Up to five
+Declined,23,75000,Rent,No report
+Accepted,28,117000,Rent,No report
+Accepted,49,156000,Own,No report
+Accepted,24,97500,Rent,Up to five
+Accepted,33,108000,Rent,No report
+Accepted,33,300000,Own,No report
+Accepted,36,111000,Own,No report
+Accepted,29,134010,Own,No report
+Declined,36,156000,Own,No report
+Accepted,23,144000,Rent,No report
+Accepted,61,45000,Own,No report
+Accepted,54,45000,Rent,No report
+Declined,26,55512,Rent,No report
+Accepted,30,73500,Rent,No report
+Accepted,27,56700,Rent,No report
+Accepted,39,105000,Own,No report
+Declined,24,83655,Rent,No report
+Accepted,47,135000,Own,No report
+Declined,25,84000,Rent,Up to five
+Declined,32,84000,Own,Up to five
+Accepted,33,135000,Rent,No report
+Accepted,45,114000,Own,No report
+Declined,33,150000,Rent,No report
+Accepted,23,81000,Rent,No report
+Declined,25,75000,Rent,Up to five
+Accepted,27,96000,Own,No report
+Accepted,23,57600,Own,No report
+Accepted,46,69240,Rent,No report
+Declined,29,51000,Rent,No report
+Accepted,49,90000,Own,No report
+Accepted,40,73500,Own,No report
+Accepted,2,102000,Rent,No report
+Accepted,33,75000,Rent,No report
+Accepted,40,90000,Own,No report
+Accepted,27,94500,Rent,No report
+Accepted,27,105000,Rent,No report
+Accepted,27,54000,Rent,No report
+Accepted,24,67500,Rent,No report
+Accepted,23,60000,Rent,No report
+Accepted,27,123000,Own,No report
+Accepted,24,89100,Rent,No report
+Accepted,42,165000,Own,No report
+Accepted,27,94500,Own,No report
+Accepted,47,105000,Rent,No report
+Accepted,21,46032,Rent,No report
+Accepted,32,153000,Own,No report
+Accepted,23,67500,Rent,No report
+Accepted,26,102300,Own,No report
+Accepted,35,111000,Own,No report
+Declined,35,102000,Rent,No report
+Accepted,36,124200,Own,No report
+Declined,38,144000,Own,Up to five
+Accepted,35,210000,Own,No report
+Accepted,29,210000,Own,No report
+Accepted,29,66000,Rent,Up to five
+Declined,29,61800,Own,No report
+Declined,22,46080,Rent,No report
+Declined,37,120000,Own,Up to five
+Accepted,44,315000,Own,No report
+Accepted,32,91500,Rent,No report
+Accepted,57,104514,Own,Up to five
+Accepted,24,90000,Own,No report
+Accepted,35,153000,Own,No report
+Accepted,53,73500,Own,No report
+Accepted,31,60000,Own,No report
+Accepted,54,120000,Own,No report
+Accepted,46,104400,Own,No report
+Accepted,21,60000,Own,No report
+Accepted,27,64500,Rent,No report
+Declined,38,134250,Rent,No report
+Accepted,33,51000,Rent,No report
+Accepted,28,90000,Rent,No report
+Accepted,27,70674,Own,No report
+Accepted,50,135000,Own,No report
+Accepted,48,111000,Own,No report
+Accepted,25,165000,Own,No report
+Accepted,31,101220,Own,No report
+Accepted,63,165000,Own,No report
+Declined,32,180000,Own,Up to five
+Accepted,28,207000,Own,No report
+Accepted,29,82500,Own,No report
+Accepted,1,75000,Rent,No report
+Accepted,26,60000,Rent,No report
+Accepted,22,80625,Rent,No report
+Accepted,27,80388,Rent,No report
+Accepted,23,54000,Rent,No report
+Accepted,25,46800,Rent,No report
+Accepted,22,45000,Rent,No report
+Accepted,25,56412,Rent,No report
+Declined,37,75600,Own,Up to five
+Accepted,30,67044,Rent,No report
+Declined,31,53400,Rent,No report
+Accepted,29,120300,Rent,No report
+Accepted,52,374997,Own,No report
+Accepted,32,48000,Rent,No report
+Accepted,47,150000,Own,No report
+Accepted,25,68250,Own,No report
+Accepted,55,102000,Rent,No report
+Accepted,21,52500,Own,No report
+Accepted,27,97500,Own,No report
+Accepted,45,117000,Rent,No report
+Declined,36,55500,Rent,No report
+Accepted,41,120000,Own,No report
+Accepted,55,129000,Own,No report
+Accepted,28,105000,Own,No report
+Accepted,34,243000,Own,Up to five
+Accepted,30,120000,Own,Up to five
+Accepted,34,60000,Rent,Up to five
+Declined,1,90000,Rent,No report
+Accepted,51,159000,Rent,No report
+Declined,26,78000,Rent,More than five
+Accepted,28,75600,Rent,No report
+Declined,24,66000,Rent,No report
+Accepted,29,75000,Rent,No report
+Accepted,34,105000,Rent,No report
+Declined,31,130500,Rent,Up to five
+Declined,39,48000,Rent,No report
+Accepted,32,60000,Rent,No report
+Accepted,43,144000,Own,Up to five
+Accepted,30,90000,Own,No report
+Accepted,62,49140,Own,No report
+Declined,36,87000,Rent,Up to five
+Accepted,22,71337,Rent,No report
+Accepted,38,69000,Own,No report
+Accepted,40,243000,Own,No report
+Declined,41,107100,Rent,Up to five
+Declined,34,58320,Rent,No report
+Accepted,35,82500,Own,No report
+Accepted,28,105000,Own,No report
+Accepted,47,210000,Own,No report
+Accepted,28,84000,Rent,No report
+Accepted,22,58500,Rent,No report
+Declined,46,195000,Rent,No report
+Accepted,23,75000,Rent,No report
+Accepted,37,90000,Rent,Up to five
+Accepted,27,54000,Own,No report
+Accepted,40,78000,Own,No report
+Accepted,52,108000,Own,No report
+Accepted,24,69000,Rent,No report
+Declined,22,53400,Rent,Up to five
+Accepted,22,115800,Own,No report
+Accepted,46,147000,Own,No report
+Declined,40,108000,Rent,No report
+Accepted,42,97050,Own,No report
+Declined,28,55500,Rent,Up to five
+Accepted,26,55500,Own,No report
+Accepted,25,46800,Rent,No report
+Accepted,32,122250,Own,No report
+Declined,25,99000,Own,Up to five
+Accepted,24,75300,Rent,No report
+Accepted,28,131250,Own,No report
+Accepted,27,70500,Rent,No report
+Accepted,21,120000,Own,No report
+Declined,36,153000,Own,Up to five
+Accepted,32,90000,Own,No report
+Accepted,29,105000,Own,No report
+Accepted,40,105000,Own,No report
+Accepted,35,165000,Own,No report
+Accepted,52,114000,Own,No report
+Accepted,23,53700,Rent,No report
+Accepted,38,153000,Own,No report
+Accepted,46,268200,Own,No report
+Accepted,50,213000,Own,No report
+Accepted,32,72000,Own,No report
+Accepted,31,99150,Rent,Up to five
+Accepted,39,195000,Own,No report
+Accepted,40,144300,Own,No report
+Accepted,40,90000,Own,No report
+Accepted,42,81000,Own,No report
+Accepted,39,162000,Own,No report
+Accepted,37,243720,Own,No report
+Accepted,28,91200,Rent,No report
+Accepted,30,62400,Own,Up to five
+Accepted,29,45330,Rent,No report
+Declined,31,90000,Own,Up to five
+Accepted,30,78000,Own,No report
+Accepted,37,75000,Own,No report
+Accepted,45,105000,Own,No report
+Accepted,25,72000,Rent,No report
+Accepted,27,69600,Rent,No report
+Accepted,46,77400,Own,No report
+Accepted,28,63000,Own,No report
+Accepted,38,70500,Rent,No report
+Accepted,47,84000,Own,No report
+Declined,52,111000,Rent,Up to five
+Declined,37,50400,Own,No report
+Declined,25,79200,Rent,No report
+Accepted,28,69000,Own,Up to five
+Accepted,35,206640,Own,Up to five
+Declined,25,120000,Rent,Up to five
+Accepted,28,60000,Own,No report
+Declined,29,59100,Rent,No report
+Accepted,25,90000,Rent,No report
+Accepted,26,82500,Own,No report
+Accepted,31,150000,Own,No report
+Accepted,34,63000,Rent,No report
+Accepted,28,120000,Own,No report
+Accepted,48,90000,Own,Up to five
+Accepted,37,99000,Rent,No report
+Declined,45,70500,Rent,Up to five
+Declined,53,64800,Rent,Up to five
+Accepted,28,117000,Own,No report
+Accepted,40,69345,Rent,No report
+Accepted,49,51000,Rent,No report
+Accepted,40,60000,Rent,No report
+Accepted,24,144000,Rent,No report
+Accepted,34,90000,Own,No report
+Accepted,21,46800,Rent,No report
+Accepted,39,60000,Own,No report
+Accepted,24,78000,Rent,No report
+Accepted,48,140400,Own,No report
+Accepted,35,120000,Rent,No report
+Accepted,52,56232,Own,No report
+Accepted,48,93000,Rent,Up to five
+Accepted,26,84000,Rent,No report
+Accepted,24,61200,Rent,No report
+Accepted,25,63000,Rent,No report
+Accepted,22,60000,Rent,No report
+Accepted,33,168000,Own,No report
+Accepted,39,90000,Own,No report
+Accepted,22,72000,Rent,No report
+Accepted,23,55500,Rent,No report
+Accepted,24,87000,Own,No report
+Declined,27,60000,Rent,No report
+Accepted,52,56700,Rent,No report
+Accepted,32,60000,Rent,No report
+Accepted,25,49251,Rent,No report
+Declined,23,70200,Rent,Up to five
+Accepted,24,57000,Rent,No report
+Accepted,22,45900,Own,No report
+Accepted,22,119838,Rent,No report
+Accepted,46,48000,Rent,No report
+Accepted,24,54000,Rent,No report
+Accepted,30,111000,Rent,Up to five
+Accepted,29,63000,Rent,No report
+Accepted,27,60000,Rent,No report
+Declined,45,78000,Own,Up to five
+Accepted,27,80250,Own,No report
+Declined,30,124800,Own,Up to five
+Accepted,25,63000,Rent,No report
+Accepted,28,72000,Rent,No report
+Accepted,39,93600,Own,No report
+Accepted,31,90000,Own,No report
+Accepted,40,93450,Own,No report
+Declined,23,48639,Rent,Up to five
+Accepted,44,131043,Own,No report
+Declined,25,76020,Rent,No report
+Declined,41,93000,Own,Up to five
+Declined,32,81483,Rent,More than five
+Accepted,42,121200,Rent,No report
+Accepted,47,82485,Rent,No report
+Accepted,28,90000,Rent,No report
+Accepted,31,94500,Own,No report
+Declined,39,179100,Own,No report
+Accepted,31,78000,Rent,No report
+Declined,48,252000,Own,No report
+Accepted,22,58500,Rent,No report
+Accepted,37,90000,Own,No report
+Accepted,24,84000,Own,No report
+Accepted,25,136500,Own,Up to five
+Accepted,21,59700,Rent,No report
+Accepted,49,135000,Rent,No report
+Declined,36,120000,Rent,No report
+Accepted,39,105000,Own,No report
+Declined,28,64500,Rent,Up to five
+Declined,23,48600,Rent,No report
+Accepted,31,105000,Rent,No report
+Accepted,27,87000,Own,No report
+Accepted,39,102192,Rent,No report
+Accepted,25,120000,Rent,No report
+Accepted,27,78000,Rent,No report
+Accepted,25,62028,Rent,No report
+Accepted,45,72000,Rent,No report
+Accepted,25,102600,Rent,No report
+Accepted,22,201000,Rent,No report
+Accepted,40,162900,Rent,No report
+Accepted,24,48600,Rent,No report
+Accepted,32,72576,Rent,No report
+Accepted,25,102000,Rent,No report
+Accepted,47,108000,Own,No report
+Accepted,27,75000,Rent,No report
+Accepted,50,52500,Own,No report
+Accepted,32,75000,Rent,No report
+Accepted,35,135000,Own,No report
+Declined,26,73980,Own,Up to five
+Accepted,21,81000,Rent,No report
+Declined,34,72000,Rent,No report
+Accepted,50,207000,Own,No report
+Accepted,41,144000,Own,No report
+Accepted,21,57600,Rent,No report
+Accepted,40,84000,Rent,No report
+Accepted,25,50847,Rent,No report
+Accepted,29,105000,Rent,No report
+Accepted,41,67500,Rent,Up to five
+Declined,31,69450,Rent,Up to five
+Accepted,31,120000,Own,No report
+Accepted,40,135000,Rent,No report
+Accepted,23,95346,Rent,No report
+Accepted,23,90000,Rent,No report
+Accepted,31,90000,Own,No report
+Declined,25,60000,Rent,No report
+Accepted,37,105000,Own,No report
+Accepted,1,120000,Own,No report
+Declined,29,77400,Own,No report
+Accepted,46,359997,Own,No report
+Accepted,1,111000,Rent,Up to five
+Declined,23,43020,Own,No report
+Accepted,39,110400,Own,No report
+Declined,24,76500,Own,No report
+Declined,37,105000,Own,Up to five
+Accepted,28,69000,Own,No report
+Accepted,26,95682,Rent,No report
+Accepted,27,70500,Rent,No report
+Declined,26,59100,Rent,Up to five
+Accepted,41,108000,Own,No report
+Declined,39,96000,Rent,Up to five
+Accepted,35,60000,Own,No report
+Accepted,32,85500,Own,No report
+Accepted,24,92850,Own,No report
+Accepted,25,45000,Own,No report
+Accepted,57,144000,Own,No report
+Accepted,24,78000,Rent,No report
+Accepted,23,85500,Own,No report
+Accepted,28,100500,Own,No report
+Accepted,33,54426,Own,No report
+Accepted,35,108000,Own,No report
+Declined,31,45450,Rent,No report
+Accepted,25,72000,Rent,No report
+Declined,39,90000,Rent,No report
+Declined,37,105000,Own,More than five
+Accepted,30,90000,Own,No report
+Accepted,35,70200,Own,No report
+Accepted,25,63000,Rent,No report
+Accepted,22,48000,Own,No report
+Accepted,27,66480,Rent,No report
+Accepted,32,109500,Own,No report
+Declined,39,96000,Rent,More than five
+Declined,31,78000,Rent,No report
+Accepted,60,183000,Own,Up to five
+Declined,36,90000,Rent,Up to five
+Accepted,37,135000,Own,No report
+Accepted,29,65520,Own,No report
+Declined,67,97500,Own,No report
+Accepted,35,66000,Own,No report
+Accepted,74,84195,Own,No report
+Accepted,28,72912,Own,No report
+Accepted,55,201000,Own,No report
+Declined,38,120000,Own,Up to five
+Declined,38,154800,Own,No report
+Accepted,40,153000,Own,No report
+Accepted,45,126000,Own,No report
+Accepted,31,168000,Own,No report
+Accepted,23,55800,Rent,No report
+Declined,27,49200,Rent,No report
+Accepted,52,204000,Rent,No report
+Accepted,23,55404,Rent,No report
+Declined,23,54000,Rent,No report
+Declined,37,90000,Own,Up to five
+Accepted,36,66000,Own,No report
+Declined,23,54000,Rent,Up to five
+Accepted,32,78000,Rent,No report
+Declined,27,60000,Rent,No report
+Accepted,38,150000,Own,No report
+Accepted,29,126600,Own,No report
+Accepted,38,120564,Rent,No report
+Accepted,26,90000,Rent,No report
+Accepted,22,94596,Rent,No report
+Accepted,24,84000,Rent,No report
+Accepted,30,85800,Rent,No report
+Accepted,23,61200,Rent,No report
+Accepted,34,105000,Own,No report
+Accepted,65,213750,Own,No report
+Declined,24,75000,Rent,No report
+Accepted,24,99000,Rent,No report
+Accepted,37,66000,Rent,No report
+Accepted,38,96000,Own,Up to five
+Accepted,22,120000,Own,No report
+Accepted,39,167067,Rent,No report
+Accepted,37,210000,Own,No report
+Declined,26,69000,Rent,Up to five
+Accepted,22,165000,Rent,No report
+Accepted,41,75000,Rent,Up to five
+Declined,41,75000,Own,Up to five
+Accepted,25,240000,Own,No report
+Accepted,24,54900,Rent,No report
+Accepted,27,87000,Rent,No report
+Declined,39,141000,Own,Up to five
+Declined,23,51750,Rent,Up to five
+Declined,37,46644,Rent,No report
+Accepted,42,114600,Rent,No report
+Accepted,52,72000,Rent,No report
+Accepted,32,72000,Rent,No report
+Accepted,36,90000,Rent,No report
+Accepted,21,48000,Rent,No report
+Accepted,42,80400,Rent,No report
+Accepted,32,189000,Rent,No report
+Accepted,24,48000,Rent,No report
+Accepted,32,78000,Rent,No report
+Accepted,29,63000,Rent,No report
+Declined,28,57972,Rent,Up to five
+Accepted,23,75000,Own,No report
+Declined,45,54000,Rent,Up to five
+Accepted,31,106800,Rent,No report
+Accepted,25,102000,Rent,No report
+Accepted,28,76500,Rent,No report
+Accepted,47,147600,Own,No report
+Accepted,26,117000,Rent,No report
+Accepted,37,156000,Rent,No report
+Accepted,54,270000,Own,No report
+Accepted,35,180000,Rent,No report
+Accepted,36,225000,Own,No report
+Accepted,45,270000,Rent,No report
+Accepted,22,63000,Rent,No report
+Accepted,24,90000,Rent,No report
+Accepted,28,78000,Rent,No report
+Accepted,55,164400,Own,No report
+Accepted,40,246000,Own,No report
+Accepted,33,75000,Rent,Up to five
+Accepted,29,90000,Own,No report
+Accepted,36,195000,Own,No report
+Accepted,57,227160,Own,Up to five
+Accepted,28,60000,Rent,Up to five
+Declined,31,97500,Rent,Up to five
+Declined,24,90000,Rent,Up to five
+Accepted,41,210000,Rent,No report
+Declined,33,225000,Rent,More than five
+Accepted,38,114000,Own,No report
+Accepted,26,111000,Own,No report
+Accepted,33,102000,Own,No report
+Declined,28,85500,Rent,Up to five
+Accepted,28,78000,Rent,No report
+Accepted,22,46980,Rent,No report
+Accepted,24,54000,Own,No report
+Accepted,39,93000,Own,No report
+Declined,25,45000,Rent,No report
+Accepted,23,65700,Rent,Up to five
+Accepted,31,165000,Own,No report
+Accepted,32,132000,Own,No report
+Accepted,33,90000,Own,No report
+Accepted,26,88500,Rent,Up to five
+Accepted,27,48000,Own,No report
+Accepted,22,60000,Rent,No report
+Accepted,25,85626,Rent,No report
+Accepted,27,66000,Rent,No report
+Accepted,29,109500,Rent,No report
+Declined,35,51000,Rent,More than five
+Accepted,57,49500,Rent,No report
+Accepted,52,79800,Own,No report
+Accepted,42,82500,Own,No report
+Accepted,39,46800,Rent,No report
+Declined,57,240000,Own,Up to five
+Accepted,28,60816,Own,No report
+Accepted,38,120000,Own,No report
+Accepted,55,201000,Own,No report
+Accepted,29,75000,Own,No report
+Accepted,22,90000,Rent,No report
+Accepted,25,96000,Rent,No report
+Accepted,27,95400,Rent,No report
+Accepted,28,96000,Own,No report
+Accepted,26,51915,Rent,Up to five
+Accepted,26,72000,Rent,No report
+Declined,32,67500,Rent,Up to five
+Accepted,43,118485,Own,No report
+Accepted,35,90000,Rent,No report
+Accepted,28,79500,Rent,No report
+Declined,28,67080,Rent,Up to five
+Accepted,39,141000,Own,No report
+Accepted,41,104400,Rent,No report
+Accepted,23,76500,Rent,No report
+Accepted,44,83100,Own,Up to five
+Accepted,48,93393,Rent,No report
+Accepted,26,59040,Rent,No report
+Accepted,21,54000,Rent,Up to five
+Declined,55,282000,Own,Up to five
+Accepted,36,165000,Rent,No report
+Declined,24,45000,Rent,No report
+Accepted,25,81000,Rent,No report
+Accepted,24,70500,Rent,No report
+Accepted,40,138000,Rent,No report
+Accepted,32,329997,Rent,No report
+Accepted,63,79635,Rent,No report
+Accepted,36,220500,Rent,Up to five
+Accepted,23,96000,Rent,No report
+Accepted,28,186000,Own,No report
+Accepted,38,98100,Rent,Up to five
+Accepted,49,111000,Rent,Up to five
+Accepted,51,52500,Rent,No report
+Declined,24,72750,Rent,No report
+Declined,29,81000,Rent,Up to five
+Accepted,45,111000,Rent,No report
+Accepted,32,96000,Rent,No report
+Accepted,32,93000,Rent,No report
+Declined,38,270000,Rent,No report
+Accepted,28,165000,Rent,Up to five
+Declined,36,123000,Own,No report
+Accepted,38,90000,Own,No report
+Accepted,26,84000,Rent,No report
+Accepted,42,153000,Rent,No report
+Accepted,35,210000,Rent,No report
+Accepted,25,69120,Rent,No report
+Accepted,32,69000,Rent,No report
+Declined,25,57000,Rent,Up to five
+Accepted,24,69000,Rent,No report
+Declined,23,45000,Rent,Up to five
+Accepted,26,71250,Rent,No report
+Accepted,30,84000,Rent,No report
+Accepted,27,75672,Rent,No report
+Accepted,27,66000,Rent,No report
+Accepted,32,96000,Rent,No report
+Accepted,33,111000,Rent,No report
+Accepted,46,54000,Rent,No report
+Declined,47,70500,Rent,Up to five
+Accepted,23,54600,Rent,No report
+Accepted,42,165000,Rent,No report
+Declined,30,78000,Rent,More than five
+Accepted,21,64500,Rent,No report
+Accepted,37,114000,Own,No report
+Accepted,37,60000,Rent,No report
+Accepted,27,73500,Rent,Up to five
+Accepted,46,105000,Own,Up to five
+Accepted,26,84000,Rent,No report
+Accepted,30,59700,Rent,Up to five
+Declined,28,60000,Rent,No report
+Accepted,21,63000,Own,No report
+Accepted,29,83700,Rent,No report
+Accepted,23,69600,Rent,No report
+Accepted,45,138000,Rent,No report
+Declined,27,60000,Own,Up to five
+Accepted,30,90000,Rent,No report
+Accepted,52,99840,Own,No report
+Accepted,42,74256,Rent,No report
+Accepted,23,129000,Rent,No report
+Declined,33,53100,Rent,No report
+Accepted,30,73500,Rent,Up to five
+Accepted,23,55500,Own,No report
+Accepted,26,66900,Rent,No report
+Declined,23,75000,Rent,No report
+Accepted,33,105273,Rent,Up to five
+Accepted,27,98625,Rent,No report
+Accepted,29,126960,Rent,No report
+Declined,37,55500,Rent,Up to five
+Accepted,26,66000,Rent,No report
+Declined,42,105000,Rent,No report
+Accepted,24,90000,Rent,No report
+Accepted,25,54000,Own,No report
+Accepted,26,51000,Rent,No report
+Accepted,29,165000,Rent,No report
+Accepted,41,77055,Rent,No report
+Declined,59,105000,Rent,Up to five
+Accepted,37,75000,Rent,No report
+Accepted,31,99078,Rent,No report
+Accepted,30,67500,Rent,No report
+Accepted,33,300000,Own,Up to five
+Accepted,26,87000,Rent,No report
+Declined,36,88500,Rent,Up to five
+Declined,25,48000,Rent,No report
+Accepted,29,102000,Rent,No report
+Declined,22,63000,Own,Up to five
+Accepted,28,96000,Rent,No report
+Declined,29,105000,Rent,No report
+Accepted,32,74100,Rent,No report
+Accepted,28,78000,Rent,No report
+Declined,39,120744,Rent,Up to five
+Accepted,23,63000,Rent,No report
+Accepted,30,58500,Rent,No report
+Declined,34,107985,Rent,No report
+Declined,43,111000,Rent,Up to five
+Accepted,32,90000,Rent,No report
+Accepted,32,135000,Rent,No report
+Declined,25,69000,Rent,More than five
+Accepted,45,105000,Own,No report
+Accepted,25,63000,Own,No report
+Accepted,41,150000,Rent,No report
+Accepted,40,73500,Rent,No report
+Accepted,41,105000,Rent,No report
+Accepted,25,75000,Rent,No report
+Declined,30,108000,Rent,More than five
+Accepted,25,79680,Own,No report
+Declined,28,75000,Rent,No report
+Declined,28,60000,Rent,No report
+Accepted,25,105600,Rent,No report
+Accepted,23,56307,Rent,Up to five
+Accepted,21,67500,Rent,No report
+Accepted,40,51369,Rent,No report
+Accepted,26,120000,Rent,No report
+Accepted,25,64800,Rent,No report
+Accepted,40,99000,Rent,Up to five
+Accepted,38,210000,Own,No report
+Accepted,25,63000,Rent,No report
+Accepted,42,90000,Own,No report
+Accepted,24,105000,Rent,Up to five
+Declined,23,62100,Rent,No report
+Accepted,39,84000,Own,No report
+Accepted,57,150000,Own,No report
+Accepted,34,65664,Rent,No report
+Declined,48,60000,Own,More than five
+Accepted,49,81000,Rent,Up to five
+Accepted,29,80700,Rent,No report
+Accepted,41,111900,Own,Up to five
+Accepted,33,60000,Own,No report
+Accepted,44,129000,Own,No report
+Accepted,38,165000,Own,No report
+Accepted,37,177600,Own,No report
+Accepted,44,228000,Own,Up to five
+Accepted,12,84600,Rent,No report
+Accepted,25,66000,Own,No report
+Accepted,48,79833,Own,No report
+Declined,32,225000,Rent,Up to five
+Accepted,33,120000,Own,No report
+Accepted,32,195000,Own,No report
+Accepted,38,168000,Own,No report
+Declined,22,63000,Rent,No report
+Accepted,35,135000,Own,No report
+Accepted,29,75300,Rent,No report
+Accepted,46,300960,Own,Up to five
+Accepted,27,105000,Rent,No report
+Accepted,23,105000,Rent,No report
+Accepted,24,117000,Rent,No report
+Accepted,26,75000,Rent,No report
+Accepted,49,156000,Own,No report
+Declined,48,45000,Own,No report
+Accepted,49,299997,Own,No report
+Accepted,58,123000,Own,No report
+Accepted,25,66000,Rent,No report
+Accepted,26,131400,Own,No report
+Declined,38,74556,Rent,Up to five
+Accepted,30,198000,Own,Up to five
+Accepted,31,82200,Own,Up to five
+Accepted,59,81000,Own,Up to five
+Accepted,39,97854,Rent,No report
+Accepted,46,174000,Own,No report
+Accepted,26,75000,Rent,No report
+Accepted,30,105000,Own,No report
+Declined,80,45000,Rent,No report
+Declined,26,52500,Rent,No report
+Declined,40,132000,Own,Up to five
+Accepted,42,141000,Own,No report
+Accepted,49,99000,Own,No report
+Accepted,44,174000,Own,No report
+Declined,43,159600,Own,Up to five
+Accepted,25,72000,Rent,No report
+Accepted,44,97500,Own,No report
+Accepted,25,91800,Rent,No report
+Accepted,40,90000,Own,No report
+Accepted,26,66000,Own,No report
+Accepted,44,90000,Own,No report
+Accepted,46,126000,Own,No report
+Accepted,34,71100,Own,No report
+Accepted,39,75600,Own,Up to five
+Accepted,37,164700,Own,Up to five
+Accepted,25,89400,Rent,No report
+Declined,27,108000,Rent,No report
+Accepted,40,67500,Own,No report
+Accepted,46,96720,Own,No report
+Accepted,52,150000,Own,No report
+Declined,35,80100,Rent,Up to five
+Accepted,30,112500,Own,No report
+Accepted,62,112500,Own,No report
+Accepted,33,111000,Own,No report
+Accepted,39,99000,Own,No report
+Accepted,37,210000,Own,No report
+Accepted,34,101244,Rent,Up to five
+Declined,30,93600,Rent,No report
+Accepted,43,77700,Own,No report
+Accepted,29,63000,Own,Up to five
+Accepted,53,90000,Own,No report
+Accepted,30,90000,Own,No report
+Accepted,46,132000,Own,No report
+Accepted,30,93000,Own,No report
+Accepted,31,89400,Rent,No report
+Accepted,22,84000,Own,No report
+Declined,37,55017,Rent,No report
+Accepted,22,98715,Rent,No report
+Accepted,29,81000,Rent,No report
+Accepted,28,117000,Own,No report
+Declined,27,54000,Rent,Up to five
+Accepted,31,96000,Rent,No report
+Accepted,33,109500,Own,No report
+Accepted,31,105000,Rent,No report
+Accepted,41,143100,Own,No report
+Accepted,39,126000,Own,No report
+Declined,43,150000,Own,More than five
+Accepted,25,60000,Own,No report
+Accepted,27,78000,Own,No report
+Accepted,61,150000,Own,No report
+Accepted,44,120000,Own,No report
+Accepted,61,161178,Own,No report
+Accepted,41,81738,Rent,No report
+Accepted,21,54000,Rent,No report
+Accepted,46,120000,Own,No report
+Accepted,27,63000,Rent,No report
+Declined,34,76500,Rent,No report
+Accepted,31,75000,Own,No report
+Accepted,24,60000,Rent,No report
+Accepted,35,90000,Rent,No report
+Accepted,39,78000,Own,No report
+Accepted,36,72000,Rent,Up to five
+Accepted,36,120000,Own,No report
+Accepted,43,186000,Own,No report
+Accepted,23,66000,Rent,No report
+Declined,29,60000,Rent,Up to five
+Accepted,45,174000,Own,Up to five
+Accepted,31,54000,Rent,No report
+Accepted,27,97920,Rent,No report
+Accepted,24,63000,Own,No report
+Accepted,23,82368,Rent,No report
+Accepted,55,111000,Own,Up to five
+Accepted,35,144450,Own,No report
+Accepted,46,91500,Own,No report
+Accepted,39,72000,Rent,No report
+Accepted,35,150000,Own,No report
+Accepted,25,78000,Rent,No report
+Accepted,28,120000,Own,No report
+Accepted,46,204000,Own,No report
+Accepted,47,58200,Rent,No report
+Accepted,25,73500,Rent,No report
+Accepted,51,135900,Own,No report
+Accepted,41,204750,Rent,No report
+Accepted,36,115500,Rent,Up to five
+Accepted,32,82500,Own,No report
+Declined,42,105000,Own,Up to five
+Declined,33,90000,Own,Up to five
+Accepted,22,69000,Own,No report
+Accepted,29,54000,Rent,No report
+Accepted,21,66000,Rent,No report
+Accepted,35,144000,Own,No report
+Accepted,28,61200,Own,No report
+Accepted,37,50400,Own,Up to five
+Accepted,24,83433,Rent,No report
+Accepted,64,180000,Rent,No report
+Accepted,26,105000,Rent,No report
+Declined,42,54000,Rent,Up to five
+Accepted,35,117000,Own,No report
+Accepted,21,60000,Rent,No report
+Accepted,42,213585,Own,Up to five
+Declined,25,55500,Rent,Up to five
+Accepted,32,48000,Rent,No report
+Accepted,34,145500,Own,No report
+Accepted,37,84750,Own,No report
+Declined,27,81000,Rent,Up to five
+Declined,56,43500,Own,No report
+Accepted,27,54000,Own,No report
+Declined,33,111000,Own,No report
+Accepted,34,57000,Rent,No report
+Accepted,36,78600,Own,No report
+Accepted,25,112500,Own,No report
+Accepted,46,135000,Own,No report
+Declined,39,111000,Rent,Up to five
+Accepted,42,115080,Own,Up to five
+Declined,26,47700,Rent,No report
+Declined,26,62100,Rent,Up to five
+Accepted,31,153000,Own,No report
+Declined,41,120384,Rent,Up to five
+Accepted,67,134076,Rent,No report
+Accepted,33,105000,Rent,No report
+Accepted,46,150000,Own,No report
+Accepted,28,75000,Rent,Up to five
+Accepted,30,45000,Rent,No report
+Accepted,47,115275,Own,Up to five
+Accepted,43,108000,Own,Up to five
+Accepted,45,88500,Rent,No report
+Accepted,38,71550,Own,No report
+Accepted,28,64800,Rent,No report
+Accepted,32,60210,Rent,No report
+Accepted,23,46800,Own,No report
+Declined,58,60000,Own,Up to five
+Accepted,23,87000,Rent,No report
+Accepted,24,111000,Own,No report
+Accepted,37,115200,Rent,No report
+Declined,63,64125,Own,Up to five
+Declined,23,72000,Rent,No report
+Accepted,24,72000,Rent,No report
+Accepted,41,60000,Own,No report
+Declined,28,46440,Rent,No report
+Declined,52,60000,Own,Up to five
+Accepted,28,93000,Own,No report
+Accepted,29,75000,Own,No report
+Accepted,39,153000,Own,No report
+Accepted,32,60000,Own,No report
+Accepted,33,108000,Rent,No report
+Accepted,25,101952,Own,No report
+Accepted,42,126000,Own,No report
+Declined,35,51000,Own,Up to five
+Declined,33,58170,Rent,No report
+Accepted,34,87000,Own,No report
+Accepted,48,51000,Own,No report
+Declined,27,147000,Rent,No report
+Accepted,40,66672,Own,No report
+Accepted,32,183192,Own,No report
+Declined,21,78750,Rent,Up to five
+Declined,22,46800,Own,Up to five
+Accepted,28,79560,Own,No report
+Accepted,44,84000,Own,No report
+Accepted,24,48000,Own,No report
+Accepted,29,150000,Own,No report
+Accepted,28,61200,Rent,Up to five
+Accepted,48,151200,Rent,No report
+Declined,14,57600,Rent,No report
+Declined,42,102000,Own,No report
+Accepted,43,96000,Own,No report
+Accepted,45,93000,Own,No report
+Accepted,36,56487,Rent,No report
+Accepted,22,72000,Rent,No report
+Accepted,26,90000,Own,No report
+Declined,41,55200,Rent,No report
+Accepted,36,75000,Own,No report
+Accepted,31,153360,Own,No report
+Accepted,52,75000,Own,No report
+Accepted,34,162000,Own,No report
+Declined,31,75000,Rent,Up to five
+Accepted,33,63000,Rent,No report
+Accepted,33,180000,Rent,Up to five
+Accepted,26,46800,Rent,No report
+Accepted,32,122100,Rent,No report
+Accepted,21,81000,Rent,Up to five
+Accepted,23,61200,Own,No report
+Accepted,60,84000,Own,No report
+Accepted,25,186000,Rent,No report
+Accepted,30,65700,Rent,No report
+Accepted,29,96000,Rent,No report
+Accepted,48,69000,Own,No report
+Accepted,25,52800,Rent,No report
+Declined,70,54000,Own,No report
+Accepted,53,118800,Own,No report
+Accepted,54,75000,Own,No report
+Accepted,32,68400,Own,No report
+Accepted,34,75000,Own,No report
+Accepted,23,78000,Rent,No report
+Accepted,25,66000,Own,No report
+Accepted,40,73440,Own,Up to five
+Declined,48,204000,Own,Up to five
+Declined,36,135000,Own,No report
+Accepted,50,148800,Own,No report
+Accepted,35,150000,Own,No report
+Accepted,35,63000,Rent,No report
+Accepted,47,312000,Own,No report
+Declined,22,46800,Own,No report
+Declined,30,69000,Rent,More than five
+Declined,40,149625,Own,No report
+Declined,35,169005,Own,More than five
+Declined,24,50160,Rent,No report
+Accepted,1,48000,Rent,No report
+Accepted,25,45300,Own,No report
+Accepted,39,85389,Own,No report
+Accepted,25,69000,Rent,No report
+Accepted,25,90000,Rent,No report
+Accepted,23,66000,Own,Up to five
+Accepted,50,6300,Own,No report
+Accepted,37,84000,Rent,No report
+Declined,22,54000,Rent,No report
+Declined,25,66000,Rent,Up to five
+Accepted,29,90000,Rent,Up to five
+Accepted,46,72000,Own,No report
+Declined,21,36000,Rent,No report
+Accepted,54,204000,Rent,No report
+Accepted,25,45000,Rent,No report
+Accepted,32,81000,Rent,No report
+Accepted,44,105000,Own,Up to five
+Declined,32,63000,Rent,No report
+Accepted,23,75000,Rent,No report
+Accepted,28,164100,Own,No report
+Declined,28,70500,Rent,No report
+Accepted,22,49500,Rent,No report
+Accepted,34,276000,Own,No report
+Accepted,55,218700,Own,Up to five
+Accepted,33,81600,Rent,No report
+Accepted,40,108720,Own,No report
+Accepted,26,159000,Own,No report
+Accepted,55,147000,Own,No report
+Accepted,32,108624,Own,No report
+Accepted,39,64080,Rent,No report
+Accepted,28,75000,Own,No report
+Declined,40,14700,Own,No report
+Accepted,56,129000,Own,Up to five
+Accepted,42,189000,Own,No report
+Accepted,21,72000,Rent,No report
+Accepted,33,84000,Own,No report
+Accepted,38,150000,Own,No report
+Accepted,28,84000,Rent,No report
+Accepted,31,84000,Own,No report
+Accepted,31,79500,Rent,No report
+Declined,25,48000,Rent,No report
+Declined,47,63000,Rent,Up to five
+Declined,36,72240,Rent,No report
+Declined,53,93000,Own,Up to five
+Accepted,34,78480,Rent,No report
+Declined,53,330000,Own,No report
+Accepted,22,54000,Rent,No report
+Accepted,30,75000,Own,No report
+Accepted,25,54000,Rent,No report
+Declined,21,81804,Rent,No report
+Declined,23,61500,Rent,No report
+Accepted,41,151500,Own,No report
+Declined,34,114000,Own,Up to five
+Declined,35,128640,Own,Up to five
+Accepted,29,108000,Own,No report
+Accepted,31,129000,Own,No report
+Declined,41,133200,Own,No report
+Accepted,39,78000,Rent,No report
+Declined,34,123000,Own,Up to five
+Declined,29,85800,Rent,No report
+Accepted,27,72000,Rent,No report
+Accepted,23,54000,Rent,No report
+Accepted,34,54000,Rent,No report
+Accepted,38,153000,Rent,No report
+Accepted,36,106818,Rent,No report
+Accepted,30,124500,Rent,No report
+Declined,32,60711,Rent,No report
+Accepted,23,54000,Rent,No report
+Accepted,25,87000,Rent,Up to five
+Declined,36,120000,Rent,More than five
+Accepted,29,88500,Rent,No report
+Declined,37,96000,Rent,No report
+Accepted,41,135000,Own,No report
+Declined,37,210000,Own,More than five
+Declined,28,66000,Rent,No report
+Accepted,22,84000,Rent,No report
+Accepted,29,66000,Rent,No report
+Accepted,27,173100,Own,No report
+Accepted,43,72951,Rent,No report
+Accepted,37,210000,Own,No report
+Accepted,27,64500,Rent,No report
+Accepted,42,156000,Own,No report
+Accepted,28,141000,Own,No report
+Accepted,26,75000,Own,No report
+Accepted,48,150000,Rent,No report
+Accepted,28,105000,Own,No report
+Accepted,26,73500,Rent,No report
+Declined,21,299997,Rent,No report
+Accepted,31,96000,Own,No report
+Accepted,28,106200,Rent,No report
+Accepted,49,93432,Own,No report
+Declined,35,67500,Rent,Up to five
+Accepted,49,180000,Own,Up to five
+Declined,25,50400,Rent,More than five
+Accepted,30,72000,Rent,No report
+Accepted,41,96000,Rent,No report
+Accepted,41,180000,Own,No report
+Accepted,22,52500,Rent,No report
+Declined,36,135000,Own,No report
+Accepted,40,75000,Rent,No report
+Accepted,32,76500,Rent,No report
+Accepted,33,97800,Rent,No report
+Accepted,23,108000,Rent,Up to five
+Declined,35,83400,Rent,No report
+Accepted,58,132000,Own,No report
+Accepted,39,96000,Own,No report
+Declined,27,48000,Own,No report
+Declined,24,49080,Rent,No report
+Accepted,30,81000,Rent,No report
+Accepted,34,105000,Own,No report
+Accepted,39,102672,Own,Up to five
+Accepted,38,195000,Own,No report
+Accepted,21,60000,Rent,No report
+Accepted,36,107400,Own,No report
+Accepted,26,75000,Rent,No report
+Accepted,40,60000,Own,Up to five
+Accepted,31,75360,Rent,No report
+Declined,39,69012,Rent,No report
+Declined,23,115800,Rent,No report
+Declined,30,65400,Rent,Up to five
+Accepted,34,136980,Own,No report
+Declined,24,95760,Rent,Up to five
+Accepted,41,138000,Own,No report
+Accepted,33,111000,Rent,No report
+Accepted,48,111000,Own,No report
